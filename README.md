@@ -1,1 +1,1 @@
- #ddd;padding:10px;border-radius:8px;margin:6px 0}.ok{background:#d1fae5){document.getElementById('q').innerText=d[i].q;document.getElementById('opts').innerHTML=d[i].o.map((t,x)=>`<div class=o onclick="c(${x})">${t}</div>`).join('');document.getElementById('ex') q=d[i];document.querySelectorAll('.o').forEach((e,j)=>{e.style.pointerEventsk
+[Link Hesaru](https://link.com)
