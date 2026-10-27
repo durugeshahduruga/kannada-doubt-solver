@@ -1,1 +1,0 @@
-[Link Hesaru](https://link.com)
